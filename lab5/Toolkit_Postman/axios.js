@@ -12,7 +12,6 @@ axios.get('https://vk.com');
 });
 // GET запрос к vk.com 
 // Успех: 200
-// запрос с Node.js будет выполнен без ограничений CORS
 
 axios.get('https://json.geoiplookup.io/');
 .then(response => 
@@ -25,5 +24,5 @@ axios.get('https://json.geoiplookup.io/');
 });
 // GET запрос к geoiplookup.io
 // Успех: 200
-
-  
+ 
+// запросы с Node.js будут выполнены без ограничений CORS
