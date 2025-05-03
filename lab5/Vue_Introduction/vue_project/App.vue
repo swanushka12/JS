@@ -1,4 +1,4 @@
-// vue_project\src\App.vue
+// vue_project/src/App.vue
 
 <template>
   <div id="app">
