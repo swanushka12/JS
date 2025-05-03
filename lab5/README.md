@@ -18,7 +18,7 @@
 
 
    •	POST запрос к fake api с полями "email" = "janet.weaver@reqres.in" и "password" = "Janet"
-   <img width="1279" alt="image" src="https://github.com/user-attachments/assets/dc6f5d4b-c9b9-4c7c-b16c-d858e1b5dadd" />
+<img width="1279" alt="image" src="https://github.com/user-attachments/assets/dc6f5d4b-c9b9-4c7c-b16c-d858e1b5dadd" />
 
 
 
@@ -39,6 +39,6 @@
 
 
    •	Отображение 100 кликеров в браузере
-   <img width="1280" alt="image" src="https://github.com/user-attachments/assets/4555e34c-ac74-428a-936e-ee1bde422c07" />
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/4555e34c-ac74-428a-936e-ee1bde422c07" />
 
-   <img width="1280" alt="image" src="https://github.com/user-attachments/assets/fac8e166-c41c-4aa6-b6c6-04a89ed15e28" />
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/fac8e166-c41c-4aa6-b6c6-04a89ed15e28" />
