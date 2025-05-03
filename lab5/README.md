@@ -18,11 +18,11 @@
 
 
    •	POST запрос к fake api с полями "email" = "janet.weaver@reqres.in" и "password" = "Janet"
-![image](https://github.com/user-attachments/assets/a254e9b0-9662-450c-bf83-7f8ad496d2a9)
+<img width="1279" alt="image" src="https://github.com/user-attachments/assets/dc6f5d4b-c9b9-4c7c-b16c-d858e1b5dadd" />
 
 
    •	POST запрос к fake api с email" = "janet.weaver@reqres.in" и "password" = "Janet", отправленными в виде JSON объекта
-![image](https://github.com/user-attachments/assets/0c5506ee-c424-4c5a-8d96-839eafa71a81)
+<img width="1279" alt="image" src="https://github.com/user-attachments/assets/f7558776-3f2f-4421-9a4b-42d298a85806" />
 
 
 
