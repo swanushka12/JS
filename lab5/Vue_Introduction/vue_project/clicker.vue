@@ -1,4 +1,4 @@
-// vue_project\src\components\clicker.vue
+// vue_project/src/components/clicker.vue
 
 <template>
   <div>    
